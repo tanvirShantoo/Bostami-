@@ -1,0 +1,14 @@
+body{
+  background: url(../public/pic/bg.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh;
+}
+a{
+  display: inline-block;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
